@@ -1,7 +1,6 @@
-# Projeto-1-Segmenta-o
-Título do Projeto: “Análise de Dados e Estratégias de Marketing para 'O Mercado’”
-Ficha Técnica: Projeto de Análise de Dados
-Título do Projeto: “Análise de Dados e Estratégias de Marketing para 'O Mercado’”
+# Projeto de Análise de Dados
+
+##Título do Projeto: “Análise de Dados e Estratégias de Marketing para 'O Mercado’”
 
   <details>
   <summary><strong style="font-size: 16px;">Objetivo</strong></summary> 
