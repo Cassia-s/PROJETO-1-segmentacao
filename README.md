@@ -24,6 +24,7 @@
   - Tabelas Dinâmicas: para cruzamento e segmentação de informações demográficas e comportamentais.
   - Funções e fórmulas do Excel/Sheets: como FILTER, QUERY, IMPORTRANGE, UNIQUE, SEERRO, CONT.SE, PROCV, DATADIF, SOMA, MÉDIA, ÉCÉL.VAZIA, IFS, SE, SE.OU, SE.E, MAXIFS, MAIOR, QUARTIL, 
   CONCATENA.
+  - Google Apresentação: criar apresentação final.
 
   </details>
   
