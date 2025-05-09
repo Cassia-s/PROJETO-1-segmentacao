@@ -5,7 +5,7 @@
   <details>
   <summary><strong style="font-size: 16px;">Objetivo</strong></summary> 
     
-  O objetivo principal deste projeto é analisar o comportamento de compra dos clientes da loja 'O Mercado', que atua no ramo de produtos alimentícios importados, visando identificar padrões de consumo, segmentar a base de clientes e propor estratégias eficazes para aumentar a fidelização, o engajamento e a lucratividade da empresa. A análise busca responder ao desafio da loja em reter seus clientes e se adaptar às novas preferências dos consumidores.
+  O objetivo principal deste projeto é analisar o comportamento de compra dos clientes da loja ´O Mercado´, que atua no ramo de produtos alimentícios importados, visando identificar padrões de consumo, segmentar a base de clientes e propor estratégias eficazes para aumentar a fidelização, o engajamento e a lucratividade da empresa. A análise busca responder ao desafio da loja em reter seus clientes e se adaptar às novas preferências dos consumidores.
 
   </details>
   
