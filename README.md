@@ -73,13 +73,15 @@ Unificar dados nas plataformas de e-commerce e CRM para garantir ações consist
 
   </details>
 
-    <summary><strong style="font-size: 16px;">Dashboard</strong></summary>
+  <summary><strong style="font-size: 16px;">Dashboard</strong></summary>
     
   ![Image](https://github.com/user-attachments/assets/a2303469-d0a7-4207-84a1-95fecf36fe4e)
 
-  </details>
+ </details>
 
-  <summary><strong style="font-size: 16px;">Links:</strong></summary>
+ <summary><strong style="font-size: 16px;">Links:</strong></summary>
 
 [Dashboard]https://lookerstudio.google.com/s/inw1JAff4GI
 [Apresentação Google Slide]https://docs.google.com/presentation/d/1W5Sm9oo71Yjt9K5Q4cSMeyNJV32YzOvPQ-r0dZPGsEw/edit?usp=sharing
+
+ </details>
