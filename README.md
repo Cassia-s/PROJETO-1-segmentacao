@@ -75,7 +75,7 @@ Unificar dados nas plataformas de e-commerce e CRM para garantir ações consist
 
   <summary><strong style="font-size: 16px;">Dashboard</strong></summary>
     
-  ![Image](https://github.com/user-attachments/assets/a2303469-d0a7-4207-84a1-95fecf36fe4e)
+ ![Image](https://github.com/user-attachments/assets/a2303469-d0a7-4207-84a1-95fecf36fe4e)
 
  </details>
 
