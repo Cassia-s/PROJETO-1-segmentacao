@@ -1,4 +1,4 @@
-# Projeto de análise de Dddos
+# Projeto de análise de Dados
 
 ## Título do projeto: “Análise de dados e estratégias de marketing para ´O Mercado´”
 
